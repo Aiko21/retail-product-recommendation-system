@@ -1,0 +1,4 @@
+app_name: Retail Recommendation App
+recommendation_top_n: 5
+cold_start_strategy: popularity_based
+similarity_threshold: 0.6

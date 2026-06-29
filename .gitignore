@@ -1,0 +1,30 @@
+
+# Virtual Environment
+.venv/
+
+# Python  Cache
+__pycache__/
+*.pyc
+
+# Jupiter
+.ipynb_checkpoints/
+
+# Vscode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environtment
+.env
+
+# Streamlit Cache
+.streamlit/secret.toml
+
+# Dataset Raw
+data/raw/
+
+# Large Generate artifacts
+data/features/customer_product_matrix.csv
+models/advanced/item_similarity_matrix.csv

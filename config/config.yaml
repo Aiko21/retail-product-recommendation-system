@@ -1,0 +1,25 @@
+project:
+  name: retail_product_recommendation
+
+  version: 1.0
+
+  author: Soko Diraharja
+
+  random_state: 42
+
+dataset:
+  raw_path: data/raw/Online Retail.xlsx
+
+  processed_path: data/processed/online_retail_clean.csv
+
+model:
+  algorithm: Item-Based Collaborative Filtering
+
+  similarity_metric: cosine
+
+  top_k: 5
+
+deployment:
+  framework: streamlit
+
+  dockerized: true

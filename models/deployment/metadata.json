@@ -1,0 +1,14 @@
+{
+    "project_name": "Retail Product Recommendation System",
+    "project_type": "Item-Based Collaborative Filtering",
+    "dataset": "Online Retail Dataset",
+    "total_products": 3665,
+    "recommendation_model": "Cosine Similarity",
+    "baseline_model": "Popularity-Based Recommender",
+    "evaluation_metric": {
+        "best_k": 5,
+        "precision_at_k": 0.019289,
+        "recall_at_k": 0.014063,
+        "map_at_k": 0.010651
+    }
+}
