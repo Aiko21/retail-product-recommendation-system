@@ -251,3 +251,11 @@ Soko Diraharja
 1. Sarwar et al. (2001). Item-Based Collaborative Filtering Recommendation Algorithms.
 2. UCI Machine Learning Repository.
 3. Ricci et al. Recommender Systems Handbook.
+
+
+# Notes
+Due to GitHub file size limitations, the item similarity matrix is not included in the repository.
+
+Please regenerate it by executing:
+
+07_model_advanced.ipynb
