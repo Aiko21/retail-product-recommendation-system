@@ -252,6 +252,7 @@ Soko Diraharja
 2. UCI Machine Learning Repository.
 3. Ricci et al. Recommender Systems Handbook.
 
+---
 
 # Notes
 Due to GitHub file size limitations, the item similarity matrix is not included in the repository.
@@ -259,3 +260,11 @@ Due to GitHub file size limitations, the item similarity matrix is not included 
 Please regenerate it by executing:
 
 07_model_advanced.ipynb
+
+or
+
+## 🚀 Live Demo
+
+Streamlit Application:
+
+http://52.2.29.141:8501
